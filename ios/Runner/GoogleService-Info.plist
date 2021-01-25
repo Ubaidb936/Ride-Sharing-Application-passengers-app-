@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>5087372234-miil56g9po1t0s22c0pbo0mt0aeb7idr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.5087372234-miil56g9po1t0s22c0pbo0mt0aeb7idr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDODpnkFmUXZJx7tuhV0MC1pVIAxJKFpHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>5087372234</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sumostand</string>
+	<key>PROJECT_ID</key>
+	<string>sumostand-3e4ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sumostand-3e4ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:5087372234:ios:d14a9ab3d025fae2d0e533</string>
+	<key>DATABASE_URL</key>
+	<string>https://sumostand-3e4ed.firebaseio.com</string>
+</dict>
+</plist>

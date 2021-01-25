@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5087372234",
+    "firebase_url": "https://sumostand-3e4ed.firebaseio.com",
+    "project_id": "sumostand-3e4ed",
+    "storage_bucket": "sumostand-3e4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5087372234:android:c3a7aa9acd32d433d0e533",
+        "android_client_info": {
+          "package_name": "com.example.sumostand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5087372234-coiutkl0qec4l6s5j0kge5jn0bt4fone.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmMbj3Omv_K_HtaeubR3Q_c2sdxLWRHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5087372234-coiutkl0qec4l6s5j0kge5jn0bt4fone.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
