@@ -3,8 +3,8 @@ import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:connectivity/connectivity.dart';
 import 'package:flutter/services.dart';
-import 'package:sumostand/screens/map_page.dart';
-import 'package:sumostand/widgets/custom_input_field.dart';
+import 'package:sumostand/usersview/screens/map_page.dart';
+import 'package:sumostand/usersview/widgets/custom_input_field.dart';
 class Registration extends StatefulWidget {
   static String id = 'registration';
   @override
@@ -92,7 +92,7 @@ class _RegistrationState extends State<Registration> {
   Widget build(BuildContext context) {
     return Scaffold(
       key: scaffoldKey,
-      resizeToAvoidBottomPadding: false,
+      //resizeToAvoidBottomPadding: false,
       // backgroundColor: Colors.green,
       body: ListView(
         padding: EdgeInsets.zero,

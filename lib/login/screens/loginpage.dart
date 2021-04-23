@@ -2,8 +2,8 @@ import 'package:connectivity/connectivity.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
-import 'package:sumostand/screens/map_page.dart';
-import 'package:sumostand/screens/registrationPage.dart';
+import 'package:sumostand/usersview/screens/map_page.dart';
+import 'package:sumostand/login/screens/registrationPage.dart';
 class LoginPage extends StatefulWidget {
   static String id = 'login';
 
@@ -68,7 +68,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       key: scaffoldKey,
-      resizeToAvoidBottomPadding: false,
+      //resizeToAvoidBottomPadding: false,
       // backgroundColor: Colors.green,
       body: ListView(
         padding: EdgeInsets.zero,

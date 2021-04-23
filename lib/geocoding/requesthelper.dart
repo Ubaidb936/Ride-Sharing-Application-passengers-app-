@@ -19,5 +19,5 @@ class RequestHelper {
     } catch (e) {
       return 'failed';
     }
-  }
+  } 
 }
